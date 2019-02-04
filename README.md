@@ -45,3 +45,11 @@ questions - É a tabela que armazenar as perguntas que foram feitas aos alunos.
 alternatives - É a tabela que armazenar as alternativas para as perguntas que foram feitas aos alunos.
 
 answers - É a tabela que armazenar as respostas de cada aluno para cada pergunta.
+
+## Instruções de Execução do Projeto
+1. pip install pipenv
+2. pipenv install
+3. pipenv shell
+
+## Link da API
+http://127.0.0.1:8000/api/
