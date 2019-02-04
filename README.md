@@ -50,6 +50,7 @@ answers - É a tabela que armazenar as respostas de cada aluno para cada pergunt
 1. pip install pipenv
 2. pipenv install
 3. pipenv shell
+4. cd django_app && python manage.py runserver
 
 ## Link da API
 http://127.0.0.1:8000/api/
