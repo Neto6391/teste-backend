@@ -47,10 +47,12 @@ alternatives - É a tabela que armazenar as alternativas para as perguntas que f
 answers - É a tabela que armazenar as respostas de cada aluno para cada pergunta.
 
 ## Instruções de Execução do Projeto
-1. pip install pipenv
-2. pipenv install
-3. pipenv shell
-4. cd django_app && python manage.py runserver
+1. instalar o python 3.6.8 segue o link junto com o pip imbutido <a href='https://www.python.org/downloads/release/python-368/'>Download</a>
+2. instalação do banco mysql, criar um banco chamado'desafio', popular importando o desafio.sql para o banco recém criado
+3. pip install pipenv
+4. pipenv install
+5. pipenv shell
+6. cd django_app && python manage.py runserver
 
 ## Link da API
 http://127.0.0.1:8000/api/
